@@ -194,5 +194,5 @@ exec sh ~/.fehbg & --no-startup-id
 #exec compton --config ./.compton/compton.conf
 
 #i3 gaps
-#gaps inner 20
-#gaps outer 20
+gaps inner 20
+gaps outer 20
